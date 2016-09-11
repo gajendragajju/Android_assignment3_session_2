@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\gajju\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="E:\acadglid\android\login\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-d3c2cdcf79cbd74b41445b757d0dd9e041c2dfd2.jar" />
+    </item>
+    <item
+        jar="C:\Users\gajju\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\acadglid\android\login\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-08d54330fca12036ad5d35305815bc2c71dda75a.jar" />
+    </item>
+    <item
+        jar="E:\acadglid\android\login\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\acadglid\android\login\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-ef90bbb5d52fa00e705b5acb33398d0c501ed97e.jar" />
+    </item>
+    <item
+        jar="E:\acadglid\android\login\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="E:\acadglid\android\login\app\build\intermediates\pre-dexed\debug\classes-b1111461a35a14dbb44d92f965d5977c4936653c.jar" />
+    </item>
+    <item
+        jar="E:\acadglid\android\login\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\acadglid\android\login\app\build\intermediates\pre-dexed\debug\classes-e74210c94c0a53b04b8d980546577e0ccb9f6b94.jar" />
+    </item>
+    <item
+        jar="E:\acadglid\android\login\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\acadglid\android\login\app\build\intermediates\pre-dexed\debug\classes-99630b6e3aca10387c60afaf198779232dc55ede.jar" />
+    </item>
+
+</items>
